@@ -1,5 +1,4 @@
-# curved-backboard
-
+# 3DBackboard
 
 Scripts to generate a point cloud representing a curved, three-dimensional mini basketball hoop backboard that is designed to direct the ball into the rim for as many reasonable shots as possible. 
 
